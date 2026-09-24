@@ -1,0 +1,121 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	eval	taxName
+2.429	2643580	2643580	395966458	27.1	2.962	0	no rank	443.661	unclassified
+97.57	106197641	338860	13483692	878	0.0002825	1	no rank	0.0112411	root
+43.41	47242628	445280	13456240	383	0.0002841	131567	no rank	0.00858542	  cellular organisms
+17.29	18814033	185169	760577	1.29e+03	0.0006731	186801	class	0.00276474	          Clostridia
+1.071	1166067	1018496	377117	190	0.01314	216851	genus	0.00486533	                Faecalibacterium
+0.07357	80071	80071	44125	51.8	0.004149	853	species	0.0022864	                  Faecalibacterium prausnitzii
+0.06156	67003	5259	128053	21.3	0.01237	2646395	no rank	0.301201	                  unclassified Faecalibacterium
+0.01916	20850	20850	13433	48.3	0.008837	2929492	species	0.0056934	                    Faecalibacterium sp. I3-3-33
+0.01401	15245	15245	50293	15.4	0.02832	2929491	species	0.0934272	                    Faecalibacterium sp. HTF-F
+0.01077	11722	11722	25247	20.7	0.01343	2929493	species	0.0289257	                    Faecalibacterium sp. I3-3-89
+0.004966	5405	5405	9464	16.2	0.006463	2929494	species	0.0113165	                    Faecalibacterium sp. I4-1-79
+0.004085	4446	4446	6308	24.4	0.005848	2929495	species	0.00829716	                    Faecalibacterium sp. I4-3-84
+0.001244	1354	1354	2129	14.4	0.004793	2929488	species	0.00753641	                    Faecalibacterium sp. IP-1-18
+0.0008545	930	930	1072	16.1	0.001563	2929490	species	0.00180165	                    Faecalibacterium sp. I2-3-92
+0.0004566	497	497	1155	14.3	0.001867	411483	species	0.0043388	                  Faecalibacterium duncaniae
+0.006449	7019	7019	224	234	0.1903	1737424	species	0.00607312	                  Blautia massiliensis (ex Durand et al. 2017)
+0.003524	3836	3836	196	313	0.07799	536231	strain	0.00398489	                    Roseburia intestinalis L1-82
+0.0009032	983	983	153	88.6	0.2134	411474	strain	0.0332149	                    Coprococcus eutactus ATCC 27759
+0.1285	139864	5411	92664	55.8	0.01314	2316020	genus	0.225024	                Mediterraneibacter
+0.09916	107922	107922	91070	50.4	0.03684	471875	strain	0.0310874	                    [Ruminococcus] lactaris ATCC 29176
+0.001288	1402	1402	144	320	0.1226	411470	strain	0.0125923	                    [Ruminococcus] gnavus ATCC 29149
+0.2165	235593	302	3869	895	0.0001107	2614128	no rank	0.00141821	                  unclassified Clostridium
+0.0004346	473	473	31	491	0.07969	1345695	strain	0.00522281	                    Clostridium saccharobutylicum DSM 13864
+0.001334	1452	1452	225	91.2	0.06994	699035	strain	0.0108378	                    Clostridioides difficile M120
+0.0005797	631	631	106	107	0.1126	272563	strain	0.0189154	                    Clostridioides difficile 630
+0.03693	40193	102	4065	266	6.434e-05	68295	order	0.00256414	            Thermoanaerobacterales
+0.2706	294551	202	5999	2.14e+03	7.78e-05	653685	species group	0.00231051	                  Bacillus subtilis group
+0.0004704	512	512	53	183	0.01056	1292358	strain	0.00109312	                        Bacillus amyloliquefaciens KHG19
+9.923e-05	108	108	51	140	0.005179	86029	subspecies	0.00244564	                      Bacillus subtilis subsp. natto
+0.004056	4415	4415	153	524	0.1453	572264	strain	0.00503531	                      Bacillus cereus 03BB102
+0.001555	1692	1692	156	371	0.08869	1454382	strain	0.00817709	                      Bacillus cereus D17
+0.0002784	303	303	55	218	0.005584	1279365	strain	0.0010136	                        Bacillus thuringiensis serovar kurstaki str. HD73
+0.0001681	183	183	42	144	0.01948	2851015	species	0.00447082	                    Bacillus sp. 7D3
+0.0001479	161	161	44	176	0.02282	2841656	species	0.00623652	                    Bacillus sp. ZHX3
+0.0001295	141	141	37	136	0.06006	1299895	strain	0.0157604	                    Listeria monocytogenes CFSAN002349
+0.0001057	115	115	25	138	0.05459	563174	strain	0.0118674	                    Listeria monocytogenes L99
+0.0003602	392	392	181	67.9	0.03053	272621	strain	0.0140968	                    Lactobacillus acidophilus NCFM
+0.003848	4188	164	2443	132	7.735e-05	2767842	genus	0.00115223	                Lactiplantibacillus
+0.04766	51877	1833	30579	72.1	0.000105	1300	family	0.00175166	              Streptococcaceae
+0.0002177	237	237	52	51.2	0.04581	767463	strain	0.0100511	                    Streptococcus thermophilus ND03
+0.0005265	573	573	62	646	0.0237	869311	strain	0.0025644	                    Streptococcus pneumoniae SPN032672
+0.0001341	146	146	67	45.4	0.05267	525381	strain	0.0241705	                    Streptococcus pneumoniae TCH8431/19A
+0.0009969	1085	582	4995	9.24	0.0004426	1303	species	0.0037986	                  Streptococcus oralis
+0.000418	455	455	655	12.9	0.001077	1077464	subspecies	0.00155041	                    Streptococcus oralis subsp. tigurinus
+0.0001084	118	118	61	30	0.01214	1890280	subspecies	0.00627576	                    Lactococcus garvieae subsp. garvieae
+0.000317	345	345	782	17.1	0.0004911	137732	species	0.00111316	                  Granulicatella elegans
+0.1158	126070	1300	12404	649	0.0003785	31977	family	0.00361147	              Veillonellaceae
+0.002338	2545	2545	1816	53	0.001463	39950	species	0.00104393	                  Dialister pneumosintes
+0.1418	154349	2458	24100	285	0.0004787	1737404	class	0.00469352	          Tissierellia
+0.1282	139505	3144	22816	277	0.0005187	1737405	order	0.0037642	            Tissierellales
+0.05562	60533	343	20595	113	0.0007459	1570339	family	0.0447866	              Peptoniphilaceae
+0.01402	15255	5266	10900	73.4	0.001356	165779	genus	0.00280676	                Anaerococcus
+0.0001746	190	190	618	11.4	0.0008027	1287640	species	0.00261089	                  Anaerococcus obesiensis
+0.2793	303997	1770	14345	1.36e+03	0.0004416	84999	order	0.00357896	            Coriobacteriales
+0.002991	3255	3255	3085	77.9	0.002198	1944646	species	0.0020832	                  Phoenicibacter congonensis
+0.04499	48963	1249	16260	195	0.0001051	2049	family	0.00136824	              Actinomycetaceae
+0.004452	4846	619	5835	55	0.0002964	2529408	genus	0.00279401	                Schaalia
+0.001816	1977	1977	3190	38.8	0.001769	131111	species	0.00285438	                  Schaalia turicensis
+0.0002876	313	313	23	1.35e+03	0.1264	257309	strain	0.00928818	                    Corynebacterium diphtheriae NCTC 13129
+0.0002949	321	321	265	233	0.05838	262316	strain	0.0481953	                        Mycobacterium avium subsp. paratuberculosis K-10
+0.0006872	748	167	1860	23.1	9.959e-05	1912216	genus	0.00110921	                Cutibacterium
+0.0002306	251	251	200	69.2	0.0223	1316911	strain	0.0177689	                      Bifidobacterium animalis subsp. lactis KLDS2.0603
+0.001056	1149	1149	1492	33.6	0.0008476	1150468	strain	0.00110063	                    Scardovia inopinata JCM 12537
+0.008765	9540	596	8917	629	0.0005513	2631981	no rank	0.00824822	                  unclassified Plantactinospora
+0.005657	6157	6157	5452	424	0.002421	2071627	species	0.00214379	                    Plantactinospora sp. BB1
+0.002554	2780	2780	2886	1.02e+03	0.001313	2108470	species	0.00136306	                    Plantactinospora sp. BC1
+0.000351	382	382	379	2.43e+03	0.00117	2782013	species	0.00116081	                    Streptomyces sp. A10(2020)
+7.981	8686877	8597	346060	1.98e+03	0.0001072	68336	clade	0.00431518	        Bacteroidota/Chlorobiota group
+7.169	7803254	60501	286697	2.02e+03	0.0005497	200643	class	0.00260487	            Bacteroidia
+0.000125	136	136	506	15.4	0.0007432	752555	strain	0.00276514	                      Prevotella bryantii B14
+0.9326	1015097	1015097	83502	619	0.02489	537011	strain	0.00204745	                      Segatella copri DSM 18205
+0.0002949	321	321	68	102	0.008741	1379690	strain	0.00185168	                      Bacteroides ovatus V975
+9.371e-05	102	102	172	1.52e+03	0.004666	2972761	species	0.00786816	                      Bacteroides sp. BFG-257
+0.2603	283333	1924	29455	295	0.0006069	2005525	family	0.00929118	                Tannerellaceae
+0.0003491	380	380	11	474	0.0567	537006	strain	0.00164132	                      Parabacteroides johnsonii DSM 18315
+0.1555	169226	7160	10339	829	0.0008115	1853231	family	0.0011718	                Odoribacteraceae
+0.0001351	147	147	105	21	0.03531	709991	strain	0.0252214	                      Odoribacter splanchnicus DSM 20712
+0.01423	15483	15483	18319	41.4	0.00532	1288121	species	0.00629446	                    Alistipes senegalensis
+0.0001773	193	193	173	70.1	0.001365	197700	subspecies	0.00122355	                  Aeromonas salmonicida subsp. masoucida
+0.1203	130974	314	16208	2.32e+03	0.0001456	561	genus	0.00751556	              Escherichia
+0.002549	2774	402	2620	320	0.0001578	59201	subspecies	0.00102845	                  Salmonella enterica subsp. enterica
+0.0003693	402	402	437	78	0.00602	2583588	no rank	0.00654413	                    Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-
+0.07711	83926	1022	25682	126	6.067e-05	468	family	0.00152459	            Moraxellaceae
+0.001212	1319	1319	68	836	0.02377	2661921	species	0.00122544	                  Vibrio sp. THAF191c
+0.0001534	167	167	54	133	0.02545	271848	strain	0.00822934	                    Burkholderia thailandensis E264
+0.0006422	699	699	41	1.48e+03	0.02795	1335307	strain	0.00163941	                    Burkholderia pseudomallei MSHR305
+0.0001507	164	164	55	240	0.01661	743973	strain	0.00557043	                  Taylorella equigenitalis ATCC 35865
+0.01584	17244	185	1075	82.6	0.0001783	919	genus	0.00103607	              Thiobacillus
+0.0001782	194	194	84	131	0.01361	1174529	strain	0.00589299	                  Candidatus Liberibacter asiaticus str. gxpsy
+0.6776	737467	854	43290	1.66e+03	0.0001756	203692	class	0.00890132	        Spirochaetia
+0.3968	431922	4937	35986	1.28e+03	0.0002251	136	order	0.00164076	          Spirochaetales
+0.3557	387173	2223	31364	1.36e+03	0.0004057	2845253	family	0.00572397	            Treponemataceae
+0.35	380903	8853	30937	1.3e+03	0.0004174	157	genus	0.00145861	              Treponema
+0.3711	403908	2214	80670	421	0.0001972	200940	phylum	0.00718524	      Thermodesulfobacteriota
+0.287	312365	582	72835	386	0.0005211	213115	order	0.0652136	          Desulfovibrionales
+0.2858	311092	5975	71422	377	0.0005706	194924	family	0.00682065	            Desulfovibrionaceae
+0.2739	298075	85142	66766	355	0.001587	872	genus	0.00124448	              Desulfovibrio
+0.1791	194900	194900	60038	240	0.01181	901	species	0.00363801	                Desulfovibrio piger
+0.03822	41601	207	5637	416	6.285e-05	72293	family	0.00171152	            Helicobacteraceae
+0.0002995	326	326	30	1.13e+03	0.0974	102617	strain	0.00896319	                  Helicobacter pylori SS1
+0.000136	148	148	20	538	0.007698	1150621	strain	0.00104027	                  Sulfurospirillum multivorans DSM 12446
+6.553	7132638	42968	10989810	65.7	0.001021	2759	superkingdom	0.261138	    Eukaryota
+6.007	6538374	276	10706892	61.6	0.001541	33154	clade	59.7801	      Opisthokonta
+5.958	6484353	6484353	10675044	61.2	0.004117	9606	species	0.00677772	                                                              Homo sapiens
+0.000554	603	603	5792	8.18	0.0005407	559292	strain	0.00519359	                            Saccharomyces cerevisiae S288C
+0.3716	404416	7797	105249	340	0.001514	5758	genus	0.020437	                Entamoeba
+0.342	372263	372263	82421	375	0.008841	370354	strain	0.00195744	                    Entamoeba dispar SAW760
+0.05474	59578	43675	164401	33.7	0.004772	5741	species	0.0179627	                  Giardia intestinalis
+0.0008278	901	901	3699	7.27	0.00115	184922	strain	0.00472125	                    Giardia lamblia ATCC 50803
+0.505	549634	600	151253	436	0.0001335	2157	superkingdom	0.0336538	    Archaea
+0.2685	292293	1292	147075	317	0.0001569	28890	phylum	0.0178607	      Euryarchaeota
+0.2513	273539	134	143897	315	0.001726	2283794	clade	1.85348	        Methanomada group
+0.2497	271776	2697	143024	313	0.002648	2159	family	0.140425	              Methanobacteriaceae
+0.2448	266400	197167	131060	236	0.007242	2172	genus	0.00481387	                Methanobrevibacter
+0.05425	59051	57456	74777	30.8	0.03417	2173	species	0.0444711	                  Methanobrevibacter smithii
+0.001465	1595	1595	4369	12.3	0.01179	420247	strain	0.032295	                    Methanobrevibacter smithii ATCC 35061
+0.001637	1782	1782	4532	13.6	0.00338	2870563	species	0.00859605	                    Methanobrevibacter sp. TLL-48-HuF1
+0.002054	2236	315	9305	31.3	0.002074	2316	genus	0.0612653	                Methanosphaera
+0.00176	1916	1916	7643	24.9	0.004466	2317	species	0.0178151	                  Methanosphaera stadtmanae
+0.0001847	201	201	228	39.9	0.04973	42478	no rank	0.0564101	                    Saccharomyces cerevisiae virus L-BC (La)

@@ -1,0 +1,35 @@
+#!/bin/bash
+#SBATCH --job-name=bowtie
+#SBATCH --cpus-per-task=8
+#SBATCH --mem=10G
+#SBATCH --time=2:00:00
+#SBATCH --output=./logs/%x_%a.out
+#SBATCH --error=./logs/%x_%a.err
+
+basdir=/lisc/data/scratch/admixlab/
+cd $basdir/mk_data/mummy/bact/GCA_031163315.1_ASM3116331v1
+
+module load Bowtie2 SAMtools
+
+REF=GCA_031163315.1_ASM3116331v1_genomic.fna
+SAMDIR=$basdir/shan/RNAvirus/human/deeper/368901/368901
+SAMPLE=368901
+
+bowtie2-build "$REF" LBC_index
+
+bowtie2 \
+  -x LBC_index \
+  -1 ${SAMDIR}_1_cutadapt.fastq.gz \
+  -2 ${SAMDIR}_1_cutadapt.fastq.gz \
+  --very-sensitive \
+  --end-to-end \
+  --dovetail \
+  --no-discordant \
+  -p 8 \
+  2> ${SAMPLE}.LBC.log | 
+samtools sort -@ 8 -o $basdir/mk_data/mummy/bact/${SAMPLE}.LBC.sorted.bam
+
+samtools index $basdir/mk_data/mummy/bact/${SAMPLE}.LBC.sorted.bam
+
+exit
+

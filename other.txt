@@ -1,0 +1,29 @@
+## mapdamage for mapped reads
+module load mapDamage
+mapDamage -i $basdir/368901Aligned.sortedByCoord.out.bam -r $basdir/ref_gen/Homo_sapiens_assembly38_noALT_noHLA_noDecoy.fasta -d $basdir/
+mapDamage -i $basdir/Nino_AnusAligned.sortedByCoord.out.bam -r $basdir/ref_gen/Homo_sapiens_assembly38_noALT_noHLA_noDecoy.fasta -d $basdir/
+
+## krakenuniq was called with a locally cached version of the database
+krakenuniq --report-file ${name}_kraken -db $DBCACHE --threads 16 --only-classified-output --paired --output off ${name}_1_cutadapt.fastq.gz ${name}_2_cutadapt.fastq.gz
+
+#### example to get significant Kraken results (analogous for other samples)
+grep -v "^#" 286400_kraken | awk -F'\t' 'BEGIN{OFS=FS}
+  NR==1{for(i=NF+1;i>9;i--) $i=$(i-1); $9="eval"; print; next}
+  $3>100{v=($4/$3)*$6; if(v>0.001){for(i=NF+1;i>9;i--) $i=$(i-1); $9=v; print}}'  > skin_kraken_sign.txt
+
+#### SC virus mapping
+module load Bowtie2 SAMtools
+module load Subread
+
+REF=GCF_000847405.1_ViralProj14643_genomic.fna
+SAMDIR=368901
+SAMPLE=368901
+
+bowtie2-build "$REF" LBC_index
+bowtie2 -x LBC_index -1 ${SAMDIR}_1_cutadapt.fastq.gz -2 ${SAMDIR}_1_cutadapt.fastq.gz --very-sensitive --end-to-end --dovetail --no-discordant -p 8 2> ${SAMPLE}.LBC.log | samtools sort -@ 8 -o ${SAMPLE}.LBC.sorted.bam
+
+samtools index ${SAMPLE}.LBC.sorted.bam
+samtools view -bh -q 10 -F 2308 ${SAMPLE}.LBC.sorted.bam > ${SAMPLE}.LBC.q10.bam
+samtools index ${SAMPLE}.LBC.q10.bam
+samtools depth -aa ${SAMPLE}.LBC.q10.bam > ${SAMPLE}.LBC.depth.tsv
+

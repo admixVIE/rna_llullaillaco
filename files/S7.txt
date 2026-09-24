@@ -1,0 +1,53 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	eval	taxName
+4.26	415474	415474	22986723	18.8	0.1719	0	no rank	9.51063	unclassified
+0.004707	459	459	1586	4.04	0.0007707	478	species	0.00266303	                Moraxella nonliquefaciens
+0.002123	207	207	906	3	0.0003129	480	species	0.0013695	                Moraxella catarrhalis
+0.008111	791	471	4344	4.14	0.0001185	724	genus	0.00109292	              Haemophilus
+1.621	158079	1327	199390	20.2	3.983e-05	1239	phylum	0.00598471	        Bacillota
+1.23	119979	1860	155407	15.3	4.241e-05	91061	class	0.00354345	          Bacilli
+0.005855	571	367	3311	4.45	0.0001564	2837504	genus	0.00141101	                Heyndrickxia
+0.001897	185	181	1467	2.76	0.0002158	1398	species	0.00174905	                  Heyndrickxia coagulans
+0.002215	216	216	1322	3.05	0.0003735	33936	species	0.00228596	                  Aeribacillus pallidus
+0.02453	2392	1401	4905	14.4	0.000554	1378	genus	0.00193959	                  Gemella
+0.008439	823	823	1722	8.75	0.0009479	1379	species	0.00198333	                    Gemella haemolysans
+0.3379	32951	1344	117399	9.48	0.0001207	186826	order	0.0105432	            Lactobacillales
+0.2188	21334	603	72149	9.41	0.0002478	1300	family	0.0296493	              Streptococcaceae
+0.2122	20699	16040	70840	8.85	0.0002945	1301	genus	0.00130065	                Streptococcus
+0.01185	1156	1137	7599	2.99	0.001279	1313	species	0.00854804	                  Streptococcus pneumoniae
+0.001425	139	139	478	2.54	0.0003894	2610896	species	0.00133909	                    Streptococcus sp. LPB0220
+0.003938	384	316	2373	2.32	0.0004155	28037	species	0.00312019	                  Streptococcus mitis
+0.002656	259	126	2064	2.52	0.0009755	1318	species	0.0159796	                  Streptococcus parasanguinis
+0.002369	231	217	2174	2.28	0.0002746	1304	species	0.00275106	                  Streptococcus salivarius
+0.06592	6429	6429	32337	6.86	0.005425	29394	species	0.027287	                  Dolosigranulum pigrum
+0.008111	791	102	2205	8.16	0.0004941	117563	genus	0.0106813	                Granulicatella
+0.005065	494	494	1102	9.76	0.0006921	137732	species	0.00154392	                  Granulicatella elegans
+0.002	195	195	877	4.6	0.0003065	46124	species	0.00137846	                  Granulicatella adiacens
+0.2651	25849	233	1952	596	0.0003596	1164882	genus	0.00301261	                Lachnoanaerobaculum
+0.004337	423	423	3300	4.18	0.001252	114527	species	0.00976738	                    Mogibacterium diversum
+0.06549	6387	164	12272	18.3	0.0001448	909932	class	0.0108353	          Negativicutes
+0.005711	557	557	1580	8.49	0.0008532	39777	species	0.00242021	                  Veillonella atypica
+0.001917	187	125	1174	3.98	0.0001959	2637378	no rank	0.00183989	                  unclassified Selenomonas
+0.003712	362	362	3111	4.73	0.0007465	33033	species	0.00641536	                  Parvimonas micra
+0.07579	7391	314	11589	14.6	7.493e-05	2049	family	0.00276549	              Actinomycetaceae
+0.003938	384	383	3382	3.1	0.001795	28264	species	0.0158504	                  Arcanobacterium haemolyticum
+0.006932	676	676	1702	10.5	0.0003977	37637	species	0.00100131	                  Corynebacterium pseudodiphtheriticum
+0.006316	616	616	84	40	0.01851	262316	strain	0.00252409	                        Mycobacterium avium subsp. paratuberculosis K-10
+0.01754	1711	189	9893	4.63	2.167e-05	1268	family	0.00113429	              Micrococcaceae
+0.009198	897	195	6442	3.32	0.0002052	32207	genus	0.00677897	                Rothia
+0.006778	661	634	5537	3.08	0.0008092	43675	species	0.0070671	                  Rothia mucilaginosa
+0.2615	25502	290	61073	13	1.933e-05	976	phylum	0.00407083	          Bacteroidota
+0.2381	23220	1302	49046	13.5	9.988e-05	171549	order	0.00376245	              Bacteroidales
+0.1732	16888	1875	42777	10.7	0.0003319	171552	family	0.0075721	                Prevotellaceae
+0.08443	8234	3911	39470	5.8	0.0003591	838	genus	0.00362405	                  Prevotella
+0.01452	1416	1416	10556	2.78	0.0006316	28132	species	0.00470845	                    Prevotella melaninogenica
+0.003876	378	378	1270	4.34	0.0005511	575614	strain	0.00185158	                        Prevotella sp. oral taxon 299 str. F0039
+0.00324	316	308	2856	3.61	0.0007301	28133	species	0.00677002	                    Prevotella nigrescens
+0.002287	223	223	2960	2.21	0.001097	470565	species	0.0145611	                    Prevotella histicola
+0.001528	149	149	1610	2.11	0.000279	1177574	species	0.0030147	                    Prevotella jejuni
+0.001477	144	144	1421	2.56	0.0005658	28137	species	0.00558335	                    Prevotella veroralis
+0.001425	139	139	853	2.86	0.0001883	28129	species	0.00115554	                    Prevotella denticola
+0.004942	482	108	4051	3.76	0.0001604	32067	genus	0.00601649	              Leptotrichia
+0.001456	142	142	926	4.08	0.0005642	712362	species	0.00367922	                  Leptotrichia sp. oral taxon 221
+0.00122	119	119	786	3.63	0.0001891	157687	species	0.00124901	                Leptotrichia wadei
+3.99	389082	224	315072	38.7	2.927e-05	2759	superkingdom	0.0411703	    Eukaryota
+0.002051	200	200	1985	2.08	0.0001853	559292	strain	0.0018391	                            Saccharomyces cerevisiae S288C

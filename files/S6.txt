@@ -1,0 +1,67 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	eval	taxName
+4.572	323001	323001	16447673	11.5	0.123	0	no rank	6.26334	unclassified
+39.45	2787043	283	1124658	67.7	0.0001045	2759	superkingdom	0.415289	    Eukaryota
+0.004402	311	311	7873	1.31	0.000735	559292	strain	0.0186066	                            Saccharomyces cerevisiae S288C
+0.03192	2255	453	11469	5.64	0.0004704	55193	genus	0.0119095	                      Malassezia
+0.01717	1213	1213	9435	3.32	0.001089	425265	strain	0.0084705	                          Malassezia globosa CBS 7966
+0.003029	214	133	1098	3.21	0.0001331	76775	species	0.00109883	                        Malassezia restricta
+0.002845	201	201	1864	3.15	0.0001999	370354	strain	0.0018538	                    Entamoeba dispar SAW760
+0.2726	19257	337	12891	8.46	3.046e-05	468	family	0.00116516	            Moraxellaceae
+0.00385	272	130	2245	2.6	6.127e-05	724	genus	0.00105809	              Haemophilus
+0.02535	1791	178	7671	6.28	2.897e-05	206351	order	0.00124848	          Neisseriales
+2.448	172950	6071	357228	10.7	2.659e-05	1783272	clade	0.0015646	      Terrabacteria group
+1.433	101241	1527	194961	10.8	3.894e-05	1239	phylum	0.0049717	        Bacillota
+1.128	79699	1729	135400	10.6	3.695e-05	91061	class	0.0028936	          Bacilli
+0.1338	9454	567	17784	6.77	6.808e-05	90964	family	0.00213533	              Staphylococcaceae
+0.003411	241	240	1464	2.74	0.000299	1290	species	0.0018239	                  Staphylococcus hominis
+0.003709	262	262	1124	3.67	0.0004842	2708346	species	0.00207725	                    Jeotgalicoccus sp. WY2
+0.04075	2879	178	6884	6.91	4.559e-05	186818	family	0.00176315	              Planococcaceae
+0.006752	477	303	2829	4.28	0.0003195	1378	genus	0.00298305	                  Gemella
+0.001996	141	141	718	2.89	0.0003952	1379	species	0.00201244	                    Gemella haemolysans
+0.3599	25424	818	76372	8.62	7.854e-05	186826	order	0.00733283	            Lactobacillales
+0.002859	202	202	779	4.75	0.0004069	1631871	species	0.00156918	                  Weissella jogaejeotgali
+0.02095	1480	201	4520	7.55	0.0001204	2742598	genus	0.0027075	                Limosilactobacillus
+0.01726	1219	1218	3618	7.49	0.0004306	1613	species	0.00127907	                  Limosilactobacillus fermentum
+0.003284	232	232	1379	3.51	0.0002418	231049	species	0.00143725	                  Furfurilactobacillus rossiae
+0.06912	4883	198	19495	6.75	6.695e-05	1300	family	0.00659187	              Streptococcaceae
+0.004912	347	347	2507	4.18	0.0004206	29394	species	0.00303874	                  Dolosigranulum pigrum
+0.002293	162	162	750	3.68	0.0004711	137732	species	0.00218102	                  Granulicatella elegans
+0.2421	17105	431	30885	16.3	3.026e-05	186802	order	0.0021684	            Eubacteriales
+0.1991	14066	213	7083	60.2	3.116e-05	186803	family	0.00103618	              Lachnospiraceae
+0.01716	1212	123	8577	3.4	6.131e-05	216572	family	0.00427525	              Oscillospiraceae
+0.009159	647	647	3203	5.49	0.00185	699246	strain	0.0091585	                    Mageeibacillus indolicus UPII9-5
+0.01826	1290	405	4927	6.59	0.000613	165779	genus	0.00745741	                Anaerococcus
+0.005407	382	382	1036	3.99	0.0005667	1870984	species	0.00153691	                  Anaerococcus mediterraneensis
+0.004275	302	302	1082	4.19	0.0005774	525919	strain	0.0020687	                    Anaerococcus prevotii DSM 20548
+0.002647	187	187	645	4.12	0.0003558	3036300	species	0.00122722	                    Anaerococcus sp. Marseille-Q7828
+0.004275	302	131	2243	2.89	0.0003079	162289	genus	0.00527191	                Peptoniphilus
+0.005549	392	323	2912	3.33	0.0001944	29465	genus	0.00175261	                Veillonella
+0.8958	63286	224	146737	10.5	2.027e-05	201174	phylum	0.0132784	        Actinomycetota
+0.03443	2432	1220	6313	6.9	0.0002369	57493	genus	0.00122586	                Kocuria
+0.001996	141	141	613	3.18	0.0002322	71999	species	0.00100949	                  Kocuria palustris
+0.007333	518	178	3575	2.85	0.0001139	32207	genus	0.0022876	                Rothia
+0.002859	202	199	1408	3.04	0.0002058	43675	species	0.00145611	                  Rothia mucilaginosa
+0.0139	982	151	3113	7.36	6.468e-05	85020	family	0.00133344	              Dermabacteraceae
+0.09599	6781	394	26317	14.8	1.546e-05	85007	order	0.00103264	            Mycobacteriales
+0.001911	135	135	991	2.69	0.0002476	43768	species	0.00181757	                  Corynebacterium matruchotii
+0.001727	122	122	1226	2.69	0.0004495	61592	species	0.00451711	                  Corynebacterium durum
+0.002166	153	153	55	15.1	0.01212	262316	strain	0.00435686	                        Mycobacterium avium subsp. paratuberculosis K-10
+0.03021	2134	228	8779	7.49	7.964e-05	31953	family	0.00306649	              Bifidobacteriaceae
+0.02186	1544	917	4400	8.74	0.0006645	2701	genus	0.00318844	                Gardnerella
+0.006993	494	494	2057	4.79	0.001447	2792979	species	0.00602526	                  Gardnerella swidsinskii
+0.01779	1257	184	6558	3.13	2.807e-05	85015	family	0.00100045	              Nocardioidaceae
+0.001897	134	132	1144	2.25	0.000256	1747	species	0.00221867	                  Cutibacterium acnes
+0.1322	9341	178	55300	5.61	1.75e-05	976	phylum	0.0054368	          Bacteroidota
+0.09198	6498	285	24804	8.3	5.051e-05	171549	order	0.00439597	              Bacteroidales
+0.05012	3541	402	13777	7.36	0.0001069	171552	family	0.00366359	                Prevotellaceae
+0.034	2402	635	9247	5.61	8.413e-05	838	genus	0.00122512	                  Prevotella
+0.01839	1299	1299	3016	8.22	0.001367	28125	species	0.00317388	                    Prevotella bivia
+0.001557	110	110	1047	2.4	0.0004543	575614	strain	0.00432411	                        Prevotella sp. oral taxon 299 str. F0039
+0.003001	212	212	1161	3.38	0.0003461	537011	strain	0.00189539	                      Segatella copri DSM 18205
+0.001755	124	124	871	2.3	0.0002935	28127	species	0.0020616	                    Hoylesella buccalis
+0.02507	1771	137	6066	8.05	0.0003011	836	genus	0.0133319	                  Porphyromonas
+0.01635	1155	1155	2322	13	0.00111	879243	strain	0.00223153	                      Porphyromonas asaccharolytica DSM 20707
+0.004332	306	306	1158	4.4	0.0005409	712435	species	0.00204694	                      Porphyromonas sp. oral taxon 275
+0.001741	123	123	1523	2.4	0.0006052	322095	species	0.00749366	                    Porphyromonas somerae
+0.01704	1204	101	12696	3.09	8.772e-06	200644	order	0.00110267	              Flavobacteriales
+0.004841	342	342	2402	4.33	0.001858	187101	species	0.0130495	                Sneathia vaginalis
